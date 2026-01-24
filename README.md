@@ -17,7 +17,7 @@
 ---
 
 ## 🎯 Objective
-This project **evaluates Large Language Models (LLMs)** on their ability to **understand and process the Khmer language**, compared with **high-resource English** and **regional languages (Thai, Vietnamese)**.
+This project **evaluates Large Language Models (LLMs)** on their ability to **understand and process the Khmer language**, compared with **high-resource English** and **regional languages (Thai, Vietnamese,..)**.
 
 We conduct a **quantitative evaluation** focusing on:
 - 📚 Vocabulary coverage & tokenizer behavior  
