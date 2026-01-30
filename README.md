@@ -167,6 +167,8 @@ Focus areas:
 - Concise comparative summary (≤ 300 words)  
 
 ---
+---
 
 ## 🔗 Colab Notebook
-[Open Notebook](https://colab.research.google.com/drive/1PwFSgGDAoPPID5TwVY-0n3vVZDtOOqQ9#scrollTo=DA_UJdCE_lsY)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PwFSgGDAoPPID5TwVY-0n3vVZDtOOqQ9#scrollTo=DA_UJdCE_lsY)
+
