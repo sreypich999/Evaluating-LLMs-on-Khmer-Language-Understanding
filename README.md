@@ -133,8 +133,14 @@ Focus areas:
 
 ---
 
-## 👥 Team Members
+## 👥 Team from AMS-5-C
 
+### 👨‍🏫 Instructor / Teacher
+| Avatar | Name | GitHub |
+|--------|------|--------|
+| <img src="https://github.com/VannyKhon.png" width="48"/> | **Vanny Khon** | [VannyKhon](https://github.com/VannyKhon) |
+
+### 🧑‍💻 Students
 | Avatar | Name | GitHub |
 |------|------|--------|
 | <img src="https://github.com/AhLang03.png" width="48"/> | **Srun Kimlang** | [AhLang03](https://github.com/AhLang03) |
@@ -147,6 +153,7 @@ Focus areas:
 | <img src="https://github.com/Ton-chamnan.png" width="48"/> | **Ton Chamnan** | [Ton-chamnan](https://github.com/Ton-chamnan) |
 | <img src="https://github.com/vannajuuka.png" width="48"/> | **Vanna Juuka** | [vannajuuka](https://github.com/vannajuuka) |
 | <img src="https://github.com/sreypich999.png" width="48"/> | **Vey Sreypich** | [sreypich999](https://github.com/sreypich999) |
+
 
 ---
 
