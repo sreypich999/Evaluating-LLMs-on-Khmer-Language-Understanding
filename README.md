@@ -133,7 +133,7 @@ Focus areas:
 
 ---
 
-## 👥 Team from AMS-5-C
+## 👥 Team AMS-5-C
 
 ### 👨‍🏫 Instructor / Teacher
 | Avatar | Name | GitHub |
